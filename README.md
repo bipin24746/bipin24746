@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on website development
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on web develeopment projects
+- connect with me in insta[linkedin](https://www.instagram.com/bipin_sainju/)
 - <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
